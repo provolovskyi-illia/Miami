@@ -43,6 +43,7 @@
   &__photo-6 {
     height: 256px;
     border-radius: 8px;
+    @include scale(1.05);
   }
 
   &__photo-1 {

@@ -56,6 +56,7 @@
     height: 153px;
     width: 153px;
     margin-bottom: 28px;
+    @include scale(1.2);
   }
 
   &__person-name {

@@ -18,6 +18,11 @@
     text-decoration: none;
   }
 
+  &__info-text:hover {
+    color: $blue;
+    transition: 0.3s;
+  }
+
   @media (min-width: $sizeMobile + 280) {
 
     &__title-2 {
